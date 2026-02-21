@@ -1,4 +1,6 @@
-# Nosey Parker: Find secrets in textual data
+# Nosey Parker has been replaced by Titus and is Officially Retired
+
+See our announcement post https://www.praetorian.com/blog/titus-open-source-secret-scanner/. The Titus Repo can be found at https://github.com/praetorian-inc/titus
 
 ## Overview
 
